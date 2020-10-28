@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 from PIL import Image
-import opencv_python as cv2
+import cv2
 import os
 import torch
 import torch.nn.functional as F
