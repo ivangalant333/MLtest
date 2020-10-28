@@ -1,0 +1,9 @@
+streamlit
+numpy
+pandas
+PIL
+cv2
+os
+torch
+torchvision
+matplotlib
