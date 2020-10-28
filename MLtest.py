@@ -94,7 +94,7 @@ class Net(nn.Module):
 
 model = Net()
 
-model.load_state_dict(torch.load('../ML/model_mtl_mnist.pt'))
+model.load_state_dict(torch.load('model_mtl_mnist.pt'))
 
 LEARNING_RATE = 0.2
 
